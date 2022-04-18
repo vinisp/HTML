@@ -183,6 +183,10 @@ h1{
   
 }
 
+h3{
+  font-size: var(--font-size-h3);
+}
+
 table{
   margin-top: 0px;
   margin-left: 0px;
@@ -297,6 +301,36 @@ input[type=text]{
 
 input[type=text]:focus {
   border: 1px solid var(--strong-green);
+}
+
+.ContainerBoxDeInfo{
+  border: 1px solid var(--strong-green);
+  display: flex;
+  flex-direction: column;
+}
+
+.cardInfo{
+  border: var(--border-default);
+  padding-top: 0;
+}
+
+.boxInfoWrapper{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px 0;
+  gap: 16px;
+
+}
+
+.cardHeaderCustom{
+  background-color: var(--strong-green);
+  color: #FFF;
+  padding: 0px 8px;
+  padding-top: 2px;
+}
+
+.cardInfo ul{
+  padding: 2px 4px;
 }
 
 code {
