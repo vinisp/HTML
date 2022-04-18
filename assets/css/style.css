@@ -307,6 +307,30 @@ input[type=text]:focus {
   border: 1px solid var(--strong-green);
   display: flex;
   flex-direction: column;
+  align-items: center;
+  width: 640px;
+}
+
+.ContainerBoxDeInfo h2{
+  color: #00773D;
+}
+
+.BoxSpacing{
+  gap: 16px;
+  justify-content: center;
+}
+
+.genericBox{
+  margin-top: 32px ;
+  border: var(--border-default);
+  background-color: var(--strong-green);
+  color: #FFF;
+  height: 860px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 128px;
+  
 }
 
 .cardInfo{
@@ -317,20 +341,28 @@ input[type=text]:focus {
 .boxInfoWrapper{
   display: flex;
   flex-wrap: wrap;
-  padding: 16px 0;
+  padding: 0 0 32px 0;
   gap: 16px;
-
 }
 
 .cardHeaderCustom{
   background-color: var(--strong-green);
   color: #FFF;
-  padding: 0px 8px;
-  padding-top: 2px;
+  padding: 8px 8px;
+}
+
+.cardHeaderCustom h3{
+  margin: 0;
+  margin-block-end: 0;
+  margin-inline-end: 0;
+}
+
+.cardHeaderCustom{
+  text-align: center;
 }
 
 .cardInfo ul{
-  padding: 2px 4px;
+  padding: 2px 16px;
 }
 
 code {
