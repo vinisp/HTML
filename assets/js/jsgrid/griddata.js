@@ -57,15 +57,15 @@
         "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
       Municipio: "Cunha - SP",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        " 0 | 1 ",
       "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        " 0 | 1 ",
       "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "0 |  1",
       "Boas práticas <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "0 | 1",
       "Cercamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "0 | 1",
       Parceiros: "Parceiro A",
       Patrocinadores: "Patrocinador A",
     },
@@ -73,7 +73,7 @@
       Programa: "Semeador das Águas",
       Municipio: "Santa Rita de Caldas - MG",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "0 |  1",
       "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
         "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
       "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
@@ -102,8 +102,23 @@
       Patrocinadores: "Patrocinador A",
     },
     {
-      Programa:
-        "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
+      Programa: "Guardião das Nascentes",
+      Municipio: "Bandeira do Sul - MG",
+      "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
+        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
+        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
+        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      "Boas práticas <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
+        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      "Cercamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
+        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      Parceiros: "Parceiro A",
+      Patrocinadores: "Patrocinador A",
+    },
+    {
+      Programa: "Águas da Formosa Colina",
       Municipio: "Cunha - SP",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
         "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
@@ -119,8 +134,7 @@
       Patrocinadores: "Patrocinador A",
     },
     {
-      Programa:
-        "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
+      Programa: "Amiga das Águas",
       Municipio: "Cunha - SP",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
         "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
@@ -136,8 +150,7 @@
       Patrocinadores: "Patrocinador A",
     },
     {
-      Programa:
-        "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
+      Programa: "Projeto Ouro D'água",
       Municipio: "Cunha - SP",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
         "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
@@ -153,28 +166,10 @@
       Patrocinadores: "Patrocinador A",
     },
     {
-      Programa:
-        "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
+      Programa: "Projeto Ouro D'água",
       Municipio: "Cunha - SP",
       "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
-      "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
-      "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
-      "Boas práticas <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
-      "Cercamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
-      Parceiros: "Parceiro A",
-      Patrocinadores: "Patrocinador A",
-    },
-    {
-      Programa:
-        "Restauração Ecológica na Bacia do Ribeirão da Capetinga, Cunha, SP, Fazenda Perseverança",
-      Municipio: "Cunha - SP",
-      "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "<span style='padding-left: 10px; padding-right: 10px'> 0 </span> | <span style='padding-left: 10px'> 1 </span>",
       "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
         "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
       "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
