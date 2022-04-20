@@ -16,7 +16,7 @@
       { name: "Programa", type: "text", width: 120 },
       { name: "Municipio", type: "text", width: 110 },
       {
-        name: "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>",
+        name: "Conservação",
         type: "text",
         width: 90,
         filtering: false,

@@ -39,16 +39,15 @@
     {
       Programa: "Conservador do Mogi",
       Municipio: "Inconfidentes - MG",
-      "Conservação <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+      Conservação: "1",
       "Saneamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "",
       "Restauração <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "",
       "Boas práticas <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "",
       "Cercamento <br> <span style='font-size: 9px'> B áreas | Intervenção </span>":
-        "<span style='padding-left: 20px; padding-right: 20px'> 0 </span> | <span style='padding-left: 20px'> 1 </span>",
+        "",
       Parceiros: "Parceiro A",
       Patrocinadores: "Patrocinador A",
     },
